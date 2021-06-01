@@ -1,0 +1,21 @@
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.sosmed img{
+	width: 100%;
+	height: 400px;
+}
+.kata {
+	text-align: justify;
+}
+.jk {
+	font-family: Arial Rounded MT Bold;
+	font-size: 35px;
+}
+.index{
+	text-align: justify;
+}
