@@ -1,4 +1,4 @@
-# Aplikasi Company Profile
+# Website Company Profile
 -----------------
 Sinopsis Aplikasi
 ------------------
@@ -20,7 +20,7 @@ Kegiatan
 -----------------
 1. Customer Bisa Melihat Penjelasan, Jenis dan Harga Produk
 2. Costomer Bisa Langsung Memesan Produk Melalui Web
-3. Jika Custome Berkenan Bisa Juga Menjadi Reseller.
+3. Jika Customer Berkenan Bisa Juga Menjadi Reseller.
 
 Fitur
 -----------------
